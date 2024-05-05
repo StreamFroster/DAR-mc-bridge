@@ -1,0 +1,30 @@
+{
+  "name": "dar-mc-bridge",
+  "version": "1.0.0",
+  "description": "A discord bot to act as a bridge between the MC server and Discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StreamFroster/DAR-mc-bridge.git"
+  },
+  "keywords": [
+    "js",
+    "discord",
+    "mc"
+  ],
+  "author": "StreamFroster",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/StreamFroster/DAR-mc-bridge/issues"
+  },
+  "homepage": "https://github.com/StreamFroster/DAR-mc-bridge#readme",
+  "dependencies": {
+    "discord.js": "^14.15.1"
+  },
+  "devDependencies": {
+    "eslint": "^9.2.0"
+  }
+}
